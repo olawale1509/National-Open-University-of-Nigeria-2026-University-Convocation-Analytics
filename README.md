@@ -24,5 +24,5 @@ Data Visualisation: Utilised advanced mapping, matrix grids, dynamic KPI cards, 
 #📊 **Key Insights & Recommendations**
 Through interactive data visualisation, this project uncovered several critical academic trends:
 Academic Performance Gaps: Identified a critically low first-class graduation rate (0.23%), prompting a recommendation for targeted mentorship and academic support programs.
-Programme Concentration: Revealed that the massive majority of graduates (71.24%) concentrated in Bachelor's degrees, indicating a strategic need to boost Postgraduate enrollment for institutional growth.
+Programme Concentration: Revealed that the vast majority of graduates (71.24%) held Bachelor's degrees, indicating a strategic need to boost Postgraduate enrollment for institutional growth.
 Geographical Distribution: Mapped graduation densities across national study centres, like Lagos, Abuja, and Port Harcourt, highlighting regions with the highest output and standardising academic performance tracking across locations.
